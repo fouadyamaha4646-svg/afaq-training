@@ -1,0 +1,6 @@
+{
+  "name": "آفاق للتكوين",
+  "description": "موقع تعريفي لمركز آفاق للتكوين والتدريب يعرض الدورات التطبيقية، محاور البرامج، والتسجيل المباشر عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
